@@ -4,7 +4,7 @@ import logo from '../images/s1.png';
 
 export const Prroducts = () => {
   return (
-      <div className='container'  style={{display:'flex'}}>
+      <div className='container d-flex'>
     <div className='a-box'>
     <div className='a-b-img'>
         <img src={logo} alt='image'/>
